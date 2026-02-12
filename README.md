@@ -54,11 +54,3 @@ Row Level Security (RLS) enabled with policies:
 - Users can DELETE their own bookmarks
 
 ---
-
-## ⚙️ Local Setup
-
-1️⃣ Clone the repo
-
-```bash
-git clone https://github.com/Inscoding/smart-bookmark-app.git
-cd smart-bookmark-app
